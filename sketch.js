@@ -55,7 +55,7 @@ function draw() {
   background("#87ceeb");
   
   textSize(25);
-  text("Press Space to Get Another Chance to Play!", 50, 50);
+  text("Press Space to Get Another Chance to Play! :)", 50, 50);
 
   groundObject.display();
   boy.display();
